@@ -1,0 +1,2 @@
+# BCHClickBot
+BCH Click Bot
